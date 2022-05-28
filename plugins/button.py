@@ -118,6 +118,7 @@ def fsub_button(client, message):
                 InlineKeyboardButton(text="▶️ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ 3", url=client.invitelinkch3),
                 InlineKeyboardButton(text="🚻 ᴊᴏɪɴ ɢʀᴏᴜᴘ", url=client.invitelink2),
             ],
+        ]
         try:
             buttons.append(
                 [
